@@ -85,5 +85,5 @@ The full concept and design process is explained in the attached presentation sl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CrunchySwole.git
+   git clone https://github.com/venuskhamesi/CrunchySwole.git
    cd CrunchySwole
